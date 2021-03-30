@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijai jayarajan
 - 👀 I’m interested in bringing digital privacy back on the internet for everyone
 - 🌱 I’m currently learning to build a consumer internet product company
-- 💞️ I’m looking to collaborate on the best in technology for product development
+- 💞️ I’m looking to collaborate on the best in class technology for product development
 - 📫 Reach me at bj@houm.me
 
 <!---
